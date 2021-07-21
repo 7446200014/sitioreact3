@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sitioreact3/static/css/main.a617e044.chunk.css",
+    "main.js": "/sitioreact3/static/js/main.6339c479.chunk.js",
+    "main.js.map": "/sitioreact3/static/js/main.6339c479.chunk.js.map",
+    "runtime-main.js": "/sitioreact3/static/js/runtime-main.ceda4206.js",
+    "runtime-main.js.map": "/sitioreact3/static/js/runtime-main.ceda4206.js.map",
+    "static/js/2.8f81bef3.chunk.js": "/sitioreact3/static/js/2.8f81bef3.chunk.js",
+    "static/js/2.8f81bef3.chunk.js.map": "/sitioreact3/static/js/2.8f81bef3.chunk.js.map",
+    "static/js/3.6c50cbc8.chunk.js": "/sitioreact3/static/js/3.6c50cbc8.chunk.js",
+    "static/js/3.6c50cbc8.chunk.js.map": "/sitioreact3/static/js/3.6c50cbc8.chunk.js.map",
+    "index.html": "/sitioreact3/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/sitioreact3/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.8f81bef3.chunk.js.LICENSE.txt": "/sitioreact3/static/js/2.8f81bef3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/sitioreact3/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ceda4206.js",
+    "static/js/2.8f81bef3.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.6339c479.chunk.js"
+  ]
+}
